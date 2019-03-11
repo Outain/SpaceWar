@@ -1,0 +1,193 @@
+fileFormatVersion: 2
+guid: 4122ad7b45f177747a30395d3c22c4cc
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: ArmGreebles
+    100002: ArmPlates
+    100004: CameraWithDOF
+    100006: CameraWithoutDOF
+    100008: CockpitGreebles
+    100010: EngineGreebles
+    100012: Engines
+    100014: HullPlates
+    100016: MainHull
+    100018: TieFighter
+    100020: //RootNode
+    100022: Window
+    100024: WingGreebles
+    100026: WingGreebles2
+    400000: ArmGreebles
+    400002: ArmPlates
+    400004: CameraWithDOF
+    400006: CameraWithoutDOF
+    400008: CockpitGreebles
+    400010: EngineGreebles
+    400012: Engines
+    400014: HullPlates
+    400016: MainHull
+    400018: //RootNode
+    400020: TieFighter
+    400022: Window
+    400024: WingGreebles
+    400026: WingGreebles2
+    2000000: CameraWithDOF
+    2000002: CameraWithoutDOF
+    2100000: ScratchedMetal
+    2100002: Black
+    2100004: ScratchedMetalDark
+    2100006: ReflectiveGlass
+    2100008: TieWingMesh
+    2100010: ScratchedMetalShinyBlack
+    2100012: RedEngineGlow
+    2300000: ArmGreebles
+    2300002: ArmPlates
+    2300004: CockpitGreebles
+    2300006: EngineGreebles
+    2300008: Engines
+    2300010: HullPlates
+    2300012: MainHull
+    2300014: Window
+    2300016: WingGreebles
+    2300018: WingGreebles2
+    3300000: ArmGreebles
+    3300002: ArmPlates
+    3300004: CockpitGreebles
+    3300006: EngineGreebles
+    3300008: Engines
+    3300010: HullPlates
+    3300012: MainHull
+    3300014: Window
+    3300016: WingGreebles
+    3300018: WingGreebles2
+    4300000: WingGreebles2
+    4300002: ArmGreebles
+    4300004: HullPlates
+    4300006: WingGreebles
+    4300008: ArmPlates
+    4300010: Window
+    4300012: MainHull
+    4300014: CockpitGreebles
+    4300016: Engines
+    4300018: EngineGreebles
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Black
+    second: {fileID: 2100000, guid: ac2cb56b2eec6964fb18933556536e80, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RedEngineGlow
+    second: {fileID: 2100000, guid: e68180b45880fae42bb53afda103a48f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ReflectiveGlass
+    second: {fileID: 2100000, guid: 7cf6b2b38abb0bb4bbcfbf9acfe99b26, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ScratchedMetal
+    second: {fileID: 2100000, guid: f4efc4c8bb357254e9805eefc2e5b6e6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ScratchedMetalDark
+    second: {fileID: 2100000, guid: 56b27934219b7174d86fe80687e39701, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ScratchedMetalShinyBlack
+    second: {fileID: 2100000, guid: 96dbb37737dd0af4ca3dd08855cd78db, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TieWingMesh
+    second: {fileID: 2100000, guid: 746ea86ce26131d4e9ed1ca9750e6a57, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
