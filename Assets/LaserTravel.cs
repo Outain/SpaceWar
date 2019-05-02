@@ -19,7 +19,7 @@ public class LaserTravel : MonoBehaviour
     void Update()
     {
         timeAlive += Time.deltaTime;
-        transform.position += Vector3.forward *speed* Time.deltaTime;
+        transform.position += transform.forward *speed* Time.deltaTime;
         if (timeAlive >= destroyTime)
         {
             Destroy(this.gameObject);

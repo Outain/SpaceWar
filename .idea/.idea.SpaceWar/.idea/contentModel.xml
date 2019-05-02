@@ -8,9 +8,11 @@
       <e p="Assets" t="Include">
         <e p="Bombing.cs" t="Include" />
         <e p="BombScript.cs" t="Include" />
+        <e p="CameraController.cs" t="Include" />
         <e p="DestroySelfScript.cs" t="Include" />
         <e p="fireLaser.cs" t="Include" />
         <e p="LaserTravel.cs" t="Include" />
+        <e p="RotateCamera.cs" t="Include" />
         <e p="Scripts" t="Include">
           <e p="BigBoid.cs" t="Include" />
           <e p="Boid.cs" t="Include" />

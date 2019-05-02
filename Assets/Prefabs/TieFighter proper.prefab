@@ -667,9 +667,10 @@ GameObject:
   - component: {fileID: 912682372}
   - component: {fileID: 7432488193361077188}
   - component: {fileID: 720030077631709078}
+  - component: {fileID: 2655865747142205618}
   m_Layer: 0
   m_Name: TieFighter proper
-  m_TagString: Untagged
+  m_TagString: tiefigther
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -688,6 +689,7 @@ Transform:
   - {fileID: 730600398}
   - {fileID: 1219168171}
   - {fileID: 761133448}
+  - {fileID: 1927312891286929421}
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -725,11 +727,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   laser: {fileID: 5975945469827716102, guid: 7ccfadca108b50c47a648ae397d6e11b, type: 3}
   playAudio: {fileID: 720030077631709078}
-  onTarget: 1
-  topLeft: {fileID: 912682370}
-  bottomLeft: {fileID: 912682370}
-  topRight: {fileID: 912682370}
-  bottomRight: {fileID: 912682370}
+  onTarget: 0
+  isXWing: 0
+  isTieFighter: 1
+  topLeft: {fileID: 1927312891286929421}
+  bottomLeft: {fileID: 1927312891286929421}
+  topRight: {fileID: 1927312891286929421}
+  bottomRight: {fileID: 1927312891286929421}
   firingOffset: 0.2
   coolDown: 0.5
 --- !u!82 &720030077631709078
@@ -828,6 +832,19 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+--- !u!65 &2655865747142205618
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 912682369}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Size: {x: 1, y: 1, z: 1}
+  m_Center: {x: 0, y: 0, z: 0}
 --- !u!1 &918108474
 GameObject:
   m_ObjectHideFlags: 0
@@ -1136,3 +1153,33 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
+--- !u!1 &3177178723262252958
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1927312891286929421}
+  m_Layer: 0
+  m_Name: Firing Point
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1927312891286929421
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3177178723262252958}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: -0.096, z: 0.378}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 912682370}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
