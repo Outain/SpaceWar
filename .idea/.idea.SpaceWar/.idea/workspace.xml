@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9fa9d01b-590e-4c33-94ae-9832636550a6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Assets/LaserTravel.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/LaserTravel.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/TieFighter proper.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/TieFighter proper.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/X wing proper.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/X wing proper.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/OffsetPursue.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/OffsetPursue.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/fireLaser.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/fireLaser.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/CameraController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/CameraController.cs" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -126,32 +120,32 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/CameraController.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="400">
-              <caret line="40" column="15" selection-start-line="40" selection-start-column="15" selection-end-line="40" selection-end-column="15" />
+            <state relative-caret-position="200">
+              <caret line="12" column="40" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="40" />
               <folding>
-                <marker date="1556820338604" expanded="false" signature="6:78" ph="..." />
-                <marker date="1556820338604" expanded="true" signature="125:1206" ph="{...}" />
-                <marker date="1556820338604" expanded="true" signature="342:363" ph="{...}" />
-                <marker date="1556820338604" expanded="true" signature="421:442" ph="{...}" />
-                <marker date="1556820338604" expanded="true" signature="475:1204" ph="{...}" />
+                <marker date="1556893612742" expanded="false" signature="6:78" ph="..." />
+                <marker date="1556893612742" expanded="true" signature="125:1238" ph="{...}" />
+                <marker date="1556893612742" expanded="true" signature="342:395" ph="{...}" />
+                <marker date="1556893612742" expanded="true" signature="453:474" ph="{...}" />
+                <marker date="1556893612742" expanded="true" signature="507:1236" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/RotateCamera.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="16" column="12" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
+            <state relative-caret-position="120">
+              <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
               <folding>
-                <marker date="1556821639077" expanded="false" signature="6:78" ph="..." />
-                <marker date="1556821639077" expanded="true" signature="121:337" ph="{...}" />
-                <marker date="1556821639077" expanded="true" signature="231:252" ph="{...}" />
-                <marker date="1556821639077" expanded="true" signature="310:335" ph="{...}" />
+                <marker date="1556821768226" expanded="false" signature="6:78" ph="..." />
+                <marker date="1556821768226" expanded="true" signature="121:787" ph="{...}" />
+                <marker date="1556821768226" expanded="true" signature="247:268" ph="{...}" />
+                <marker date="1556821768226" expanded="true" signature="326:785" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -219,8 +213,8 @@
         <option value="D:/Git boy/GE2-2018-2019/GE2Examples/Assets/OffsetPursue.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/OffsetPursue.cs" />
         <option value="$PROJECT_DIR$/Assets/fireLaser.cs" />
-        <option value="$PROJECT_DIR$/Assets/CameraController.cs" />
         <option value="$PROJECT_DIR$/Assets/RotateCamera.cs" />
+        <option value="$PROJECT_DIR$/Assets/CameraController.cs" />
       </list>
     </option>
   </component>
@@ -291,12 +285,12 @@
       <option name="presentableId" value="Default" />
       <updated>1552326283153</updated>
       <workItem from="1552326284587" duration="5924000" />
-      <workItem from="1556459838096" duration="16025000" />
+      <workItem from="1556459838096" duration="17169000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21949000" />
+    <option name="totallyTimeSpent" value="23093000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -548,29 +542,29 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/CameraController.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/RotateCamera.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="40" column="15" selection-start-line="40" selection-start-column="15" selection-end-line="40" selection-end-column="15" />
+        <state relative-caret-position="120">
+          <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
           <folding>
-            <marker date="1556820338604" expanded="false" signature="6:78" ph="..." />
-            <marker date="1556820338604" expanded="true" signature="125:1206" ph="{...}" />
-            <marker date="1556820338604" expanded="true" signature="342:363" ph="{...}" />
-            <marker date="1556820338604" expanded="true" signature="421:442" ph="{...}" />
-            <marker date="1556820338604" expanded="true" signature="475:1204" ph="{...}" />
+            <marker date="1556821768226" expanded="false" signature="6:78" ph="..." />
+            <marker date="1556821768226" expanded="true" signature="121:787" ph="{...}" />
+            <marker date="1556821768226" expanded="true" signature="247:268" ph="{...}" />
+            <marker date="1556821768226" expanded="true" signature="326:785" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/RotateCamera.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/CameraController.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="16" column="12" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
+        <state relative-caret-position="200">
+          <caret line="12" column="40" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="40" />
           <folding>
-            <marker date="1556821639077" expanded="false" signature="6:78" ph="..." />
-            <marker date="1556821639077" expanded="true" signature="121:337" ph="{...}" />
-            <marker date="1556821639077" expanded="true" signature="231:252" ph="{...}" />
-            <marker date="1556821639077" expanded="true" signature="310:335" ph="{...}" />
+            <marker date="1556893612742" expanded="false" signature="6:78" ph="..." />
+            <marker date="1556893612742" expanded="true" signature="125:1238" ph="{...}" />
+            <marker date="1556893612742" expanded="true" signature="342:395" ph="{...}" />
+            <marker date="1556893612742" expanded="true" signature="453:474" ph="{...}" />
+            <marker date="1556893612742" expanded="true" signature="507:1236" ph="{...}" />
           </folding>
         </state>
       </provider>
