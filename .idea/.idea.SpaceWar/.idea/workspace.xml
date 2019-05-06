@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9fa9d01b-590e-4c33-94ae-9832636550a6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Assets/CameraController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/CameraController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.SpaceWar/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SpaceWar/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -120,7 +120,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/CameraController.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="200">
@@ -136,10 +136,10 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/RotateCamera.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
+            <state relative-caret-position="34">
               <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
               <folding>
                 <marker date="1556821768226" expanded="false" signature="6:78" ph="..." />
@@ -285,12 +285,12 @@
       <option name="presentableId" value="Default" />
       <updated>1552326283153</updated>
       <workItem from="1552326284587" duration="5924000" />
-      <workItem from="1556459838096" duration="17169000" />
+      <workItem from="1556459838096" duration="17764000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23093000" />
+    <option name="totallyTimeSpent" value="23688000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -542,19 +542,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/RotateCamera.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
-          <folding>
-            <marker date="1556821768226" expanded="false" signature="6:78" ph="..." />
-            <marker date="1556821768226" expanded="true" signature="121:787" ph="{...}" />
-            <marker date="1556821768226" expanded="true" signature="247:268" ph="{...}" />
-            <marker date="1556821768226" expanded="true" signature="326:785" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/CameraController.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
@@ -565,6 +552,19 @@
             <marker date="1556893612742" expanded="true" signature="342:395" ph="{...}" />
             <marker date="1556893612742" expanded="true" signature="453:474" ph="{...}" />
             <marker date="1556893612742" expanded="true" signature="507:1236" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/RotateCamera.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+          <folding>
+            <marker date="1556821768226" expanded="false" signature="6:78" ph="..." />
+            <marker date="1556821768226" expanded="true" signature="121:787" ph="{...}" />
+            <marker date="1556821768226" expanded="true" signature="247:268" ph="{...}" />
+            <marker date="1556821768226" expanded="true" signature="326:785" ph="{...}" />
           </folding>
         </state>
       </provider>

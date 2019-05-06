@@ -12,6 +12,7 @@
         <e p="DestroySelfScript.cs" t="Include" />
         <e p="fireLaser.cs" t="Include" />
         <e p="LaserTravel.cs" t="Include" />
+        <e p="ObstacleAvoidance.cs" t="Include" />
         <e p="RotateCamera.cs" t="Include" />
         <e p="Scripts" t="Include">
           <e p="BigBoid.cs" t="Include" />
