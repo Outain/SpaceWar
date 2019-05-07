@@ -14,5 +14,6 @@ The scene uses path following, seek and offset pursue from the scripts given in 
 
 I'm most proud of the use of editing and camera work in this assignment. I tried to edit the clips so they would flow and create a good sense of pacing throughout.
 
+# Video
 
 [![YouTube](http://img.youtube.com/vi/CUAi2ew1L4E/0.jpg)](https://www.youtube.com/watch?v=CUAi2ew1L4E)
